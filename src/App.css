@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #228B22, #0056b3  ); /* Gradient background */
+  background: linear-gradient(135deg, #228B22, #0056b3  ); 
   margin: 0;
   padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('https://st4.depositphotos.com/11246114/23233/i/450/depositphotos_232337930-stock-photo-beautiful-blue-sky-clouds-background.jpg'); /* Add your background image URL here */
+  background-image: url('https://st4.depositphotos.com/11246114/23233/i/450/depositphotos_232337930-stock-photo-beautiful-blue-sky-clouds-background.jpg'); 
   background-size: cover; 
   background-position: center; 
 }
